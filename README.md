@@ -31,8 +31,17 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+ ![EX10 I](https://github.com/Gokul0117/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121165938/dabd4ddb-129b-4e14-bee0-ae6ed952092c)
 
 ### Output:
+![EX10](https://github.com/Gokul0117/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121165938/49c516c3-aba0-408f-8dbb-24fceeef824c)
+
+## Name: GOKUL J
+## Register Number: 212222230038
+
+## RESULT:
+## Thus the given product is reverse engineered and prototyped using 3D Printer.
+
 
 
 ### Name:
